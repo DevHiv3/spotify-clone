@@ -7,7 +7,7 @@ A full fledged Spotify clone built entirely on JavaScript Tech Stack
 
 ### check out the app [here!](https://github.com/DevHiv3/spotify-clone)
 
-## APK Link
+## LINK
 
 ```bash
   
